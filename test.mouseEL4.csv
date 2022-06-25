@@ -1,0 +1,8 @@
+peptide,order,study,response,PRIME,PRIME %rank,NetMHCpan,NetMHCpan %rank,IEDB
+ATQQFQQL,1,celine,negative,,,0.7463,0.0726,-0.24696
+IILEFHSL,2,celine,negative,,,0.967,0.0051,0.10198
+SSPRGSSTL,3,celine,negative,,,0.7815,0.0235,-0.19119
+TVPLNHNTL,4,celine,negative,,,0.8687,0.0134,0.02661
+VNYIHRNV,5,celine,positive,,,0.9186,0.0146,0.20748
+VNYLHRNV,6,celine,positive,,,0.9286,0.0118,0.0624
+VTPVYQHL,7,celine,negative,,,0.9527,0.0073,-0.0474
