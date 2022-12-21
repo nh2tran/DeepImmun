@@ -1,4 +1,5 @@
-# DeepImmun: Predicting immunogenicity by modeling the positive and 1 negative selection of CD8+ T cells in individual patients
+# DeepImmun
+## Predicting immunogenicity by modeling the positive and 1 negative selection of CD8+ T cells in individual patients
 
 Training, prediction and evaluation can be performed by following the step-by-step instructions in the Python notebook 'aa.tcell_github_20221221.ipynb'. The notebook was tested with Python 3.8 and TensorFlow 2.6.
 
