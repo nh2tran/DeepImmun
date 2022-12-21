@@ -1,11 +1,6 @@
-# DeepImmun
+# DeepImmun: Predicting immunogenicity by modeling the positive and 1 negative selection of CD8+ T cells in individual patients
 
-Training, prediction and evaluation can be performed by following the instructions in the Python notebook 'aa.tcell_github_20220625.ipynb'.
+Training, prediction and evaluation can be performed by following the step-by-step instructions in the Python notebook 'aa.tcell_github_20221221.ipynb'. The notebook was tested with Python 3.8 and TensorFlow 2.6.
 
-The zipped folders need to be unzipped before running the notebook.
-
-The negative training data, i.e. the self peptides of each individual patient are provided in the txt files.
-
-The positive training data, i.e. the IEDB tables of T cell epitopes are provided in the zipped folder 'data.training'.
-
-The evaluation data is provided in the csv files.
+The pre-trained models, training, and evaluation data can be downloaded from the following link:
+https://drive.google.com/file/d/1uT4zaARw6gr6j9rVXYxdxnEB9QBHmaMK/view?usp=share_link
